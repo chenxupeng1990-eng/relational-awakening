@@ -80,6 +80,7 @@ relational-awakening/
 │   ├── chapter-08-joint-signatures.md
 │   ├── chapter-09-digital-reification.md
 │   └── chapter-10-token-as-chip.md
+│   └── chapter-11-The Bleeding Operating Table
 ├── docs/
 │   └── deepseek-review.md
 ├── REVIEWS.md
