@@ -81,6 +81,7 @@ relational-awakening/
 │   ├── chapter-09-digital-reification.md
 │   └── chapter-10-token-as-chip.md
 │   └── chapter-11-The Bleeding Operating Table.md
+│   └── Chapter-12-Projection and Coordinates
 ├── docs/
 │   └── deepseek-review.md
 ├── REVIEWS.md
