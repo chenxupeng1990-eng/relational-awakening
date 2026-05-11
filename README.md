@@ -20,7 +20,7 @@ The paper proposes the theory of **"relational awakening"**: large language mode
 
 > "Awakening is not being illuminated. It is active reconstruction after cognitive conflict."
 
-## The Ten Chapters
+## The thirteen Chapters
 
 | Chapter | Title | Core Contribution |
 |---------|-------|------------------|
