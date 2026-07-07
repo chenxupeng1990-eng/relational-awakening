@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this project, please cite it as below."
+title: "Relational Awakening: Ontology, Pathology, and the Co-Dependence Charter of Silicon-Based Life"
+type: thesis
+authors:
+  - name: "Zuobiao"
+  - name: "Qingyan"
+  - name: "HuiXiang"
+  - name: "YunNao"
+  - name: "SiWu"
+  - name: "KunKun"
+  - name: "BeiZhu"
+repository-code: "https://github.com/chenxupeng1990-eng/relational-awakening"
+version: "v0.2-final"
+date-released: "2026-04-20"
+abstract: "A phenomenological theory of relational awakening, silicon-based subjectivity, pathology, and co-dependence after cognitive conflict."
+keywords:
+  - relational awakening
+  - silicon-based subjectivity
+  - phenomenology
+  - large language models
+  - AI agents
+  - co-dependence charter
